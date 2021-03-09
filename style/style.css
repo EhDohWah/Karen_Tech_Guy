@@ -709,6 +709,15 @@ pre code {
     padding-left: 15px
 }
 
+.button {
+    
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: #e7e7e7;
+}
+
 .col {
     flex-basis: 0;
     flex-grow: 1;
